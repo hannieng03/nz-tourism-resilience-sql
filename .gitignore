@@ -1,0 +1,9 @@
+# SQLite databases built locally from the scripts or dumps
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# OS
+.DS_Store
+Thumbs.db
